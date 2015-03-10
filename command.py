@@ -1,4 +1,5 @@
 from Calc import Calc
 
-print "This is version 3.X and the library version: "
-Calc.version()
+print "This is version 4.X and the library version: "
+calc = Calc ()
+calc.version()
